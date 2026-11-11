@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ashiq 👋
+**Gen AI Engineer | Python | Computer Vision**
+Based in Kerala, India 🇮🇳
 
-<!--
-**ashiqmuneeb/ashiqmuneeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build intelligent, real-world AI applications using LLMs, RAG pipelines, and computer vision.
 
-Here are some ideas to get you started:
+## 🧠 What I'm working on
+- 🔭 Multimodal AI Operations Copilot
+- 🎥 Vidmind: video understanding with AI
+- 📚 Learning: LangChain, open-source LLMs (Llama, Falcon), vector databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, TypeScript
+**GenAI:** LangChain, Hugging Face, OpenAI SDK, Groq, ChromaDB
+**Computer Vision:** OpenCV, YOLO
+**Tools:** Git, Google Colab, Jupyter
+
+## 📌 Featured Projects
+| Project | Description |
+|---|---|
+| [Vidmind](https://github.com/ashiqmuneeb/Vidmind) | one line about what it does |
+| [Multimodal_AI_Operations_Copilot](https://github.com/ashiqmuneeb/Multimodal_AI_Operations_Copilot) | one line about what it does |
+
+## 📫 Connect
+[LinkedIn](your-link) • [Email](mailto:your-email)
